@@ -16,6 +16,6 @@
   }
 
   :root {
-    @apply font-dmsans;
+    @apply bg-cream font-dmsans;
   }
 }

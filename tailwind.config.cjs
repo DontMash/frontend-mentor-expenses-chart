@@ -9,6 +9,8 @@ module.exports = {
     colors: {
       'soft-red': '#ec775f',
       'cyan': '#76b5bc',
+      'light-soft-red': '#ff9b88',
+      'light-cyan': '#b4dfe6',
   
       'dark-brown': '#382314',
       'medium-brown': '#93867b',
